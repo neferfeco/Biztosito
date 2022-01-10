@@ -1,0 +1,25 @@
+Szerződés azonosító; Ügyfélnév; Ügyfél neme; Rendszám; Díj befizetés típusa; Biztosítás féléves díja
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
