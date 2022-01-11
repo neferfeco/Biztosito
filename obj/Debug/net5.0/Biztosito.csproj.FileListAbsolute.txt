@@ -1,0 +1,16 @@
+/home/feco/Asztal/tmp/Biztosito/bin/Debug/net5.0/Biztosito
+/home/feco/Asztal/tmp/Biztosito/bin/Debug/net5.0/Biztosito.deps.json
+/home/feco/Asztal/tmp/Biztosito/bin/Debug/net5.0/Biztosito.runtimeconfig.json
+/home/feco/Asztal/tmp/Biztosito/bin/Debug/net5.0/Biztosito.runtimeconfig.dev.json
+/home/feco/Asztal/tmp/Biztosito/bin/Debug/net5.0/Biztosito.dll
+/home/feco/Asztal/tmp/Biztosito/bin/Debug/net5.0/ref/Biztosito.dll
+/home/feco/Asztal/tmp/Biztosito/bin/Debug/net5.0/Biztosito.pdb
+/home/feco/Asztal/tmp/Biztosito/obj/Debug/net5.0/Biztosito.csproj.AssemblyReference.cache
+/home/feco/Asztal/tmp/Biztosito/obj/Debug/net5.0/Biztosito.GeneratedMSBuildEditorConfig.editorconfig
+/home/feco/Asztal/tmp/Biztosito/obj/Debug/net5.0/Biztosito.AssemblyInfoInputs.cache
+/home/feco/Asztal/tmp/Biztosito/obj/Debug/net5.0/Biztosito.AssemblyInfo.cs
+/home/feco/Asztal/tmp/Biztosito/obj/Debug/net5.0/Biztosito.csproj.CoreCompileInputs.cache
+/home/feco/Asztal/tmp/Biztosito/obj/Debug/net5.0/Biztosito.dll
+/home/feco/Asztal/tmp/Biztosito/obj/Debug/net5.0/ref/Biztosito.dll
+/home/feco/Asztal/tmp/Biztosito/obj/Debug/net5.0/Biztosito.pdb
+/home/feco/Asztal/tmp/Biztosito/obj/Debug/net5.0/Biztosito.genruntimeconfig.cache
