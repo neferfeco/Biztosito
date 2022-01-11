@@ -29,9 +29,6 @@ namespace Biztosito
             Console.WriteLine($"3. feladat: Az ügyfelek közül {noTulajdonosDB} db a nő.\n");
 
 
-        //---------------------------------------
-
-
         //4/A. feladat
 
 
